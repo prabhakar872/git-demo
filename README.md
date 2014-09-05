@@ -1,6 +1,8 @@
-# Demo Git RepositoryThis is the first fie of git repository being created here.
+# Demo Git Repository
 
-## Ipsum Below
-s is the first fie of git repository being created here and will be continuing there further fromThis is the first fie of git repository being created here and will be continuing there further fromThis is the first fie of git repository being created here and will be continuing there further fromThis is the first fie of git repository being created here and will be continuing there further fromThis is the first fie of git repository being created here and will be continuing there further fromThis is the first fie of git repository being created here and will be continuing there further fromThis is the first fie of git repository being created here and will be continuing there further fromThis is the first fie of git repository being created here and will be continuing there further fromThis is the first fie of git repository being created here and will be continuing there further from
+This is the first fie of git repository being created here.
 
-This is the first fie of git repository being created here and will be continuing there further fromThis is the first fie of git repository being created here and will be continuing there further fromThis is the first fie of git repository being created here and will be continuing there further fromThis is the first fie of git repository being created here and will be continuing there further from
+## Website Contents
+
+1. Index.html
+
